@@ -93,4 +93,8 @@ eunde.
 taboola.
 nuxt/
 lockadblock.
+zzjdys.
+ickadu.
+opads.
+sentry-cdn.
 @@wikimedia.org
