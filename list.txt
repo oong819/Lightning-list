@@ -20,6 +20,7 @@ sentry.
 ads.pinterest.
 analytics.pinterest.
 log.pinterest.
+widgets.pinterest.
 weibo.
 hotjar.
 addthis.
@@ -98,3 +99,29 @@ ickadu.
 opads.
 sentry-cdn.
 @@wikimedia.org
+ads.youtube.
+intl.xiaomi.
+ad.xiaomi.
+mistat.xiaomi.
+cleverads.
+ads.yahoo.
+adserver.yahoo.
+yap.yahoo.
+appmetrica.yandex.
+adexchange.
+extmaps-api.yandex.
+chat.xiaomi.
+intl.miui.
+tracking.miui.
+hicloud.
+tracking.india.miui.
+tracking.rus.miui.
+open.oneplus.
+2o7.net
+mistat.rus.xiaomi.com
+mistat.india.xiaomi.
+ads.
+ad.
+! my browser have some issue with ads. and ad.
+sungads.
+analytics-api.
