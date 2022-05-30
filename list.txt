@@ -125,3 +125,5 @@ ad.
 ! my browser have some issue with ads. and ad.
 sungads.
 analytics-api.
+/stats
+collector.
