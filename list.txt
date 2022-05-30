@@ -18,7 +18,6 @@ freshmarketer.
 kyorange.
 sentry.
 ads.pinterest.
-analytics.pinterest.
 log.pinterest.
 widgets.pinterest.
 weibo.
@@ -27,16 +26,13 @@ addthis.
 stats.wp.
 pixel.facebook.
 ads.facebook.
-analytics.facebook.
 an.facebook.
 5play.
 baidu.
 coinhive.
 ads-twitter.
-static.ads-twitter.
 ads-api.twitter.
 advertising.twitter.
-analytics.tiktok.
 ads.tiktok.
 ads-sg.tiktok.
 analytics-sg.tiktok.
@@ -127,3 +123,4 @@ sungads.
 analytics-api.
 /stats
 collector.
+statics.
