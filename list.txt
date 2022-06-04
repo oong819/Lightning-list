@@ -23,7 +23,6 @@ widgets.pinterest.
 weibo.
 hotjar.
 addthis.
-stats.wp.
 pixel.facebook.
 ads.facebook.
 an.facebook.
@@ -34,11 +33,8 @@ ads-twitter.
 ads-api.twitter.
 advertising.twitter.
 ads.tiktok.
-ads-sg.tiktok.
-analytics-sg.tiktok.
 tbrainimg.
 criteo.
-smartadserver.
 parrable.
 id5-sync.
 crwdcntrl.
@@ -78,7 +74,6 @@ tlook.
 dfront.
 eldan.
 dazoo.
-static.
 esica.
 terperson.
 88.
@@ -92,13 +87,12 @@ nuxt/
 lockadblock.
 zzjdys.
 ickadu.
-opads.
 sentry-cdn.
 @@wikimedia.org
+opads.
 ads.youtube.
 intl.xiaomi.
 ad.xiaomi.
-mistat.xiaomi.
 cleverads.
 ads.yahoo.
 adserver.yahoo.
@@ -108,19 +102,42 @@ adexchange.
 extmaps-api.yandex.
 chat.xiaomi.
 intl.miui.
-tracking.miui.
 hicloud.
-tracking.india.miui.
-tracking.rus.miui.
 open.oneplus.
 2o7.net
-mistat.rus.xiaomi.com
-mistat.india.xiaomi.
 ads.
 ad.
 ! my browser have some issue with ads. and ad.
-sungads.
 analytics-api.
 /stats
 collector.
-statics.
+stats.
+yeesshh.
+mistat.
+adhub.
+metrics.
+seflow.
+bigdata.ssp.
+business.samsungusa.
+tracker.
+xtgem.
+sungads.
+linkor.
+/scout.
+www.reddit.com##._3uNSGa3nY14wAI7gVgC6R _3_pxwJbE3JmDuVA9-PNPQy _1p6DaJ5cjs6GIbxhkXp0Rf
+events.redditmedia.
+www.reddit.com##.PostContent size-compact
+www.reddit.com##.oF_DI4uUcGUKfbCBU_QwY
+alb.reddit.
+xxglviflhefqnes.
+reddit.##.callToAction adLinkBar__callToAction
+reddit.##.adLinkBar
+thaudray.
+etsaubs.
+haiph.
+/ads02
+/ads03
+/ads01
+adserver.
+ads-sg.
+analytics-sg.
