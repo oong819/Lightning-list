@@ -4,8 +4,6 @@
 /adsbygoogle
 /bugsnag
 /hotjar
-adservice.google.
-/email-decode.
 bannerFlash/
 rikvip.
 media.
@@ -30,14 +28,11 @@ an.facebook.
 baidu.
 coinhive.
 ads-twitter.
-ads-api.twitter.
-advertising.twitter.
 ads.tiktok.
 tbrainimg.
 criteo.
 parrable.
 id5-sync.
-crwdcntrl.
 crssplx.
 banners/
 img.youtube.
@@ -57,7 +52,6 @@ liexpress.
 ndex.ru
 ibaba.
 club.
-jnn-pa.googleapis.
 itting.
 usting.
 adservices.
@@ -121,17 +115,10 @@ bigdata.ssp.
 business.samsungusa.
 tracker.
 xtgem.
-sungads.
 linkor.
 /scout.
-www.reddit.com##._3uNSGa3nY14wAI7gVgC6R _3_pxwJbE3JmDuVA9-PNPQy _1p6DaJ5cjs6GIbxhkXp0Rf
 events.redditmedia.
-www.reddit.com##.PostContent size-compact
-www.reddit.com##.oF_DI4uUcGUKfbCBU_QwY
 alb.reddit.
-xxglviflhefqnes.
-reddit.##.callToAction adLinkBar__callToAction
-reddit.##.adLinkBar
 thaudray.
 etsaubs.
 haiph.
@@ -141,3 +128,22 @@ haiph.
 adserver.
 ads-sg.
 analytics-sg.
+advertising.
+allfile.
+efqnes.
+rifyhub.
+ads-api.
+frog.wix.
+ffiliates/
+adtima.
+adcash.
+admicro.
+##.callToAction adLinkBar__callToAction
+##.adLinkBar
+##.PostContent size-compact
+/log?
+/log_event
+jnn-pa.
+gads.
+adservice.
+cntrl.
