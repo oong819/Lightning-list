@@ -1,6 +1,5 @@
 /amp-ad-
 /gtag
-/adsbygoogle
 /bugsnag
 /hotjar
 bannerFlash/
@@ -25,7 +24,6 @@ ecgoal.
 win.
 eunde.
 nuxt/
-@@wikimedia.org
 opads.
 intl.xiaomi.
 ad.xiaomi.
@@ -67,7 +65,6 @@ haiph
 etsaubs
 thaudray
 alb.reddit
-events.redditmedia
 /scout
 linkor
 xtgem
@@ -79,7 +76,6 @@ mistat
 yeesshh
 collector
 rikvip
-media
 amazonaax
 amazonclix
 assoc-amazon
@@ -132,3 +128,19 @@ tbrai
 adexc
 /count
 adver
+adblockdetec
+adobedtm
+demdex
+mpulse
+ceads
+pagead
+adsys
+tagser
+/gpt.
+adsby
+redditmedia
+@@soundtrack
+ced-ad
+media.net
+cookiepro
+pcdn.
