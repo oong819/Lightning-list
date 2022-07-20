@@ -68,7 +68,6 @@ alb.reddit
 /scout
 linkor
 xtgem
-business.samsungusa
 bigdata.ssp
 metrics
 adhub
@@ -112,7 +111,6 @@ usting
 click
 syndication
 terperson
-migrate
 ckadblock
 ickadu
 qantserve
@@ -204,8 +202,16 @@ RecordEve
 /akam/
 -mpulse
 eum.i
-_nuxt/
 track
 rubincon
 awhee
 elebir
+otnola
+mgr.consensu
+louche
+onetru
+okielaw
+@@hcaptcha
+er.com/oct
+business.samsu
+reporting.cloudfl
